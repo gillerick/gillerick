@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gill Erick
+- 👨‍💻 I code in Java, Scala, Golang and Python.
+- 🌱 I’m currently learning concurrency, distributed systems and advanced design patterns.
