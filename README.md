@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Gill Erick
-- 👨‍💻 I code in Java, Scala, Golang and Python.
-- 🌱 I’m currently learning code optimization techniques, dealing with concurrency in distributed systems and design patterns.
+- 👨‍💻 I code in Java, Scala, Golang, Ruby and Python.
+- 🌱 I’m currently learning machine learning and artificial intelligence
+- 🚵‍♀️ I enjoy riding my mountain bike, reading or writing during my free time
